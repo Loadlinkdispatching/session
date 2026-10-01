@@ -1,0 +1,172 @@
+<svg viewBox="0 0 560 295" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Loadlink Dispatch — Connecting Loads. Driving Success.">
+
+  <!-- White background -->
+  <rect width="560" height="295" fill="white"/>
+
+  <!-- ══════════════════════════════════════════
+       SWOOSH ARCS — wrap around the truck
+  ══════════════════════════════════════════ -->
+  <!-- Navy outer arc -->
+  <path d="M 18 178 C 80 -18 440 -18 536 128"
+        stroke="#1B3070" stroke-width="15" fill="none"
+        stroke-linecap="round"/>
+  <!-- Orange inner arc -->
+  <path d="M 42 190 C 100 4 440 4 532 148"
+        stroke="#F7941D" stroke-width="11" fill="none"
+        stroke-linecap="round"/>
+
+  <!-- ══════════════════════════════════════════
+       TRAILER BODY
+  ══════════════════════════════════════════ -->
+  <!-- Main box -->
+  <rect x="35" y="58" width="265" height="98" rx="2"
+        fill="white" stroke="#1B3070" stroke-width="2.8"/>
+  <!-- Horizontal panel seam -->
+  <line x1="35" y1="103" x2="300" y2="103"
+        stroke="#1B3070" stroke-width="1.2" opacity="0.45"/>
+  <!-- Vertical door ribs -->
+  <line x1="72"  y1="58" x2="72"  y2="156" stroke="#1B3070" stroke-width="0.9" opacity="0.35"/>
+  <line x1="90"  y1="58" x2="90"  y2="156" stroke="#1B3070" stroke-width="0.9" opacity="0.35"/>
+  <line x1="135" y1="58" x2="135" y2="156" stroke="#1B3070" stroke-width="0.9" opacity="0.35"/>
+  <line x1="180" y1="58" x2="180" y2="156" stroke="#1B3070" stroke-width="0.9" opacity="0.35"/>
+  <line x1="225" y1="58" x2="225" y2="156" stroke="#1B3070" stroke-width="0.9" opacity="0.35"/>
+  <!-- Front face of trailer (depth) -->
+  <rect x="298" y="58" width="13" height="98"
+        fill="#1B3070" opacity="0.22" rx="1"/>
+
+  <!-- ══════════════════════════════════════════
+       TRAILER UNDERCARRIAGE & FIFTH-WHEEL
+  ══════════════════════════════════════════ -->
+  <rect x="35" y="153" width="265" height="7"
+        fill="#1B3070" opacity="0.55" rx="1"/>
+  <!-- Slider rails -->
+  <rect x="80"  y="160" width="110" height="4" rx="1" fill="#1B3070" opacity="0.4"/>
+  <rect x="220" y="160" width="65"  height="4" rx="1" fill="#1B3070" opacity="0.4"/>
+
+  <!-- ══════════════════════════════════════════
+       TRAILER WHEELS (dual rear axles)
+  ══════════════════════════════════════════ -->
+  <!-- Rear axle set -->
+  <circle cx="100" cy="170" r="15" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="100" cy="170" r="7"  fill="#1B3070"/>
+  <circle cx="122" cy="170" r="15" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="122" cy="170" r="7"  fill="#1B3070"/>
+  <!-- Forward axle set -->
+  <circle cx="222" cy="170" r="15" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="222" cy="170" r="7"  fill="#1B3070"/>
+  <circle cx="244" cy="170" r="15" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="244" cy="170" r="7"  fill="#1B3070"/>
+
+  <!-- ══════════════════════════════════════════
+       CAB — conventional long-hood tractor
+  ══════════════════════════════════════════ -->
+  <!-- Hood (long flat section) -->
+  <path d="M 308 108 L 308 156 L 405 156 L 405 118 L 375 106 L 308 106 Z"
+        fill="white" stroke="#1B3070" stroke-width="2.6"/>
+  <!-- Hood top crease -->
+  <line x1="308" y1="106" x2="375" y2="106" stroke="#1B3070" stroke-width="1.2" opacity="0.45"/>
+  <line x1="375" y1="106" x2="405" y2="118" stroke="#1B3070" stroke-width="1.2" opacity="0.45"/>
+  <!-- Hood vent grille slats -->
+  <line x1="320" y1="120" x2="370" y2="118" stroke="#1B3070" stroke-width="1" opacity="0.35"/>
+  <line x1="320" y1="128" x2="370" y2="126" stroke="#1B3070" stroke-width="1" opacity="0.35"/>
+  <line x1="320" y1="136" x2="370" y2="134" stroke="#1B3070" stroke-width="1" opacity="0.35"/>
+  <line x1="320" y1="144" x2="370" y2="142" stroke="#1B3070" stroke-width="1" opacity="0.35"/>
+
+  <!-- Cab body (upright) -->
+  <path d="M 375 106 L 390 65 L 468 65 L 468 156 L 405 156 L 405 118 Z"
+        fill="white" stroke="#1B3070" stroke-width="2.6"/>
+  <!-- Windshield (tinted) -->
+  <path d="M 378 108 L 393 70 L 460 70 L 460 108 Z"
+        fill="#1B3070" opacity="0.14"/>
+  <path d="M 378 108 L 393 70 L 460 70 L 460 108 Z"
+        fill="none" stroke="#1B3070" stroke-width="1.8"/>
+  <!-- Windshield centre divider -->
+  <line x1="426" y1="70" x2="419" y2="108" stroke="#1B3070" stroke-width="1.2" opacity="0.5"/>
+  <!-- Cab door -->
+  <line x1="435" y1="70" x2="435" y2="156" stroke="#1B3070" stroke-width="1" opacity="0.4"/>
+  <!-- Door handle -->
+  <rect x="438" y="118" width="10" height="3" rx="1.5"
+        fill="#1B3070" opacity="0.5"/>
+  <!-- Side mirror arm -->
+  <line x1="378" y1="82" x2="360" y2="88" stroke="#1B3070" stroke-width="1.8"/>
+  <rect x="350" y="84" width="14" height="9" rx="2"
+        fill="#1B3070" opacity="0.55"/>
+
+  <!-- Exhaust stacks -->
+  <rect x="391" y="42" width="5.5" height="26" rx="2.5" fill="#1B3070" opacity="0.75"/>
+  <rect x="399" y="46" width="5.5" height="22" rx="2.5" fill="#1B3070" opacity="0.55"/>
+  <!-- Stack tips -->
+  <ellipse cx="393.5" cy="42" rx="4" ry="2" fill="#1B3070" opacity="0.5"/>
+  <ellipse cx="401.5" cy="46" rx="4" ry="2" fill="#1B3070" opacity="0.4"/>
+
+  <!-- Front bumper / fairing -->
+  <path d="M 466 126 L 488 130 L 488 158 L 466 156 Z"
+        fill="white" stroke="#1B3070" stroke-width="2.6"/>
+  <!-- Grille slats -->
+  <line x1="468" y1="136" x2="486" y2="137" stroke="#1B3070" stroke-width="1.1" opacity="0.4"/>
+  <line x1="468" y1="142" x2="486" y2="143" stroke="#1B3070" stroke-width="1.1" opacity="0.4"/>
+  <line x1="468" y1="148" x2="486" y2="149" stroke="#1B3070" stroke-width="1.1" opacity="0.4"/>
+  <!-- Headlights -->
+  <rect x="466" y="97"  width="10" height="12" rx="2" fill="#F7941D" opacity="0.95"/>
+  <rect x="466" y="112" width="10" height="8"  rx="1.5" fill="#F7941D" opacity="0.6"/>
+  <!-- Fog light -->
+  <rect x="470" y="152" width="8"  height="5" rx="1.5" fill="#F7941D" opacity="0.7"/>
+
+  <!-- Cab roof fairing / deflector -->
+  <path d="M 393 65 L 398 48 L 465 48 L 468 65 Z"
+        fill="white" stroke="#1B3070" stroke-width="2.2"/>
+
+  <!-- ══════════════════════════════════════════
+       CAB UNDERCARRIAGE & WHEELS
+  ══════════════════════════════════════════ -->
+  <rect x="375" y="153" width="96" height="7"
+        fill="#1B3070" opacity="0.55" rx="1"/>
+  <!-- Drive axle wheels (tandem) -->
+  <circle cx="415" cy="172" r="16" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="415" cy="172" r="7.5" fill="#1B3070"/>
+  <circle cx="438" cy="172" r="16" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="438" cy="172" r="7.5" fill="#1B3070"/>
+  <!-- Steer axle wheel -->
+  <circle cx="477" cy="168" r="14" fill="white" stroke="#1B3070" stroke-width="3"/>
+  <circle cx="477" cy="168" r="6.5" fill="#1B3070"/>
+
+  <!-- ══════════════════════════════════════════
+       GROUND SHADOW
+  ══════════════════════════════════════════ -->
+  <ellipse cx="265" cy="188" rx="235" ry="5"
+           fill="#1B3070" opacity="0.1"/>
+
+  <!-- ══════════════════════════════════════════
+       LOADLINK TEXT
+  ══════════════════════════════════════════ -->
+  <text x="280" y="232"
+        text-anchor="middle"
+        font-family="'Arial Black','Arial Bold',Arial,sans-serif"
+        font-weight="900"
+        font-size="60"
+        letter-spacing="1.5">
+    <tspan fill="#1B3070">LOAD</tspan><tspan fill="#F7941D">LINK</tspan>
+  </text>
+
+  <!-- DISPATCH with flanking rules -->
+  <line x1="55"  y1="247" x2="176" y2="247" stroke="#1B3070" stroke-width="1.6"/>
+  <text x="280" y="258"
+        text-anchor="middle"
+        font-family="Arial,sans-serif"
+        font-weight="700"
+        font-size="15"
+        fill="#1B3070"
+        letter-spacing="6">DISPATCH</text>
+  <line x1="384" y1="247" x2="505" y2="247" stroke="#1B3070" stroke-width="1.6"/>
+
+  <!-- Tagline -->
+  <text x="280" y="282"
+        text-anchor="middle"
+        font-family="Georgia,'Times New Roman',serif"
+        font-style="italic"
+        font-size="12.5"
+        letter-spacing="0.8">
+    <tspan fill="#1B3070">CONNECTING LOADS. </tspan><tspan fill="#F7941D">DRIVING SUCCESS.</tspan>
+  </text>
+
+</svg>
