@@ -22,7 +22,7 @@ const RIGS: Rig[] = [
   {
     name: "Flatbed",
     desc: "Secure top-paying freight with expert negotiation and route planning.",
-    img: "./images/flatbed.jpg",
+    img: "./images/flatbed_dusk.jpg",
     span: "lg:col-span-5",
   },
   {
